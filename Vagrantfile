@@ -104,6 +104,14 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   #   # You may also specify custom JSON attributes:
   #   chef.json = { mysql_password: "foo" }
   # end
+  # The path to the Berksfile to use. The default value is "Berksfile" if one
+  # exists, or nil if it does not.
+  config.berkshelf.berksfile_path = "./handson/Berksfile"
+
+  # Enable Berkshelf. If a Berksfile exists or a berksfile_path is given, this
+  # value is automatically set to true. If not, the value is false
+  config.berkshelf.enabled = true
+
   config.omnibus.chef_version = :latest
   config.vm.provision "chef_zero" do |chef|
     chef.cookbooks_path = ["./", "./cookbooks", "./site-cookbooks"]

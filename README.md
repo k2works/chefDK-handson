@@ -28,3 +28,5 @@ $ vagrant up
 # 参照
 + [ChefDKハンズオン with すごい広島の資料](http://qiita.com/eielh/items/adb173ffcd6389c12e36)
 + [VirtualBox 用 Ubuntu 14.04 LTS 日本語デスクトップ イメージ](http://qiita.com/yuki-takei/items/1a5fc4ab66f58e9536f0)
++ [Chef-DK Cookbook](https://supermarket.chef.io/cookbooks/chef-dk)
++ [docker](https://supermarket.chef.io/cookbooks/docker)
