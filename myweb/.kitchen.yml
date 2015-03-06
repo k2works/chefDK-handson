@@ -20,3 +20,5 @@ suites:
     run_list:
       - recipe[myweb::default]
     attributes:
+      nginx:
+        default_root: /usr/share/nginx/html
