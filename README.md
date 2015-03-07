@@ -8,6 +8,12 @@ ChefDKハンズオン
 
 ![002](https://farm9.staticflickr.com/8600/16118910563_e4803f366f_z.jpg)
 
+# 参照
++ [ChefDKハンズオン with すごい広島の資料](http://qiita.com/eielh/items/adb173ffcd6389c12e36)
++ [VirtualBox 用 Ubuntu 14.04 LTS 日本語デスクトップ イメージ](http://qiita.com/yuki-takei/items/1a5fc4ab66f58e9536f0)
++ [Chef-DK Cookbook](https://supermarket.chef.io/cookbooks/chef-dk)
++ [docker](https://supermarket.chef.io/cookbooks/docker)
+
 # 前提
 | ソフトウェア     | バージョン    | 備考         |
 |:---------------|:-------------|:------------|
@@ -26,12 +32,6 @@ ChefDKハンズオン
 + [test-kitchenでのchefの実行](#8)
 + [Foodcritic](#9)
 + [Berkshelf](#10)
-
-# 参照
-+ [ChefDKハンズオン with すごい広島の資料](http://qiita.com/eielh/items/adb173ffcd6389c12e36)
-+ [VirtualBox 用 Ubuntu 14.04 LTS 日本語デスクトップ イメージ](http://qiita.com/yuki-takei/items/1a5fc4ab66f58e9536f0)
-+ [Chef-DK Cookbook](https://supermarket.chef.io/cookbooks/chef-dk)
-+ [docker](https://supermarket.chef.io/cookbooks/docker)
 
 # 詳細
 ## <a name="1">セットアップ</a>
