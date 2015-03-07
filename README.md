@@ -1902,7 +1902,8 @@ FC006: Mode should be quoted or fully specified when setting file permissions: .
     -----> Kitchen is finished. (4m12.52s)
     vagrant@ubuntu-trusty64-ja:~/myweb$ curl localhost:8100
     Hello default-ubuntu-1404
-    ```
+
+```
 
 # 参照
 + [ChefDKハンズオン with すごい広島の資料](http://qiita.com/eielh/items/adb173ffcd6389c12e36)
